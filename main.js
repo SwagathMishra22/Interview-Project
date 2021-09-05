@@ -17,7 +17,7 @@ function addEmployee() {
     var newItem = ` 
     <li>
         <div class="employee-card" id="employee1">
-            <img class="user-img" src="C:\Users\Swagath Mishra\OneDrive\Pictures\shaw\L3\default.jpg" alt"">
+            <img class="user-img" src="https://docs.google.com/uc?id=12771K-R44NNlN0aQx803xCdIjsMMyVPH" alt"">
             <span>
             <div class = "employement-details" id="employee1-details">
 
